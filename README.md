@@ -136,8 +136,6 @@
 
 # 📫 Контакты
 
-🌐 **Портфолио**  
-https://portfolio.kamaylaev.ru
 
 💻 **GitHub**  
 https://github.com/usmankamayl
